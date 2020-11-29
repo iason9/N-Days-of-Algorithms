@@ -9,7 +9,6 @@ for example the calculation of X^n :
 - second step is Y * X  
   - lets say this result is : Z
 - third step is Z * X
-  - lets say this result is : Z
 
 - And we continue until N times, you do see that we are using each time the previous result.
 
